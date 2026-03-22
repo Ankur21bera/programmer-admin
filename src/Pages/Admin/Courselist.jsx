@@ -24,7 +24,6 @@ import {
   TableRow,
 } from "flowbite-react";
 import { Eye, Pencil, Power, Trash2 } from "lucide-react";
-import { set } from "mongoose";
 import toast from "react-hot-toast";
 
 const Courselist = () => {
